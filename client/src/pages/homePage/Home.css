@@ -1,0 +1,46 @@
+.header-text{
+    color:#4060B4;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.button-container{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    font-size: 18px;
+    padding: 3em;
+}
+
+.button-category{
+    background: rgba(0,0,0,0);
+    border: 3px solid #4060B4;
+    font-size: 20px;
+    color: #4060B4;
+    padding: 15px 32px;
+    text-decoration: none;
+    border-radius: 50px;
+}
+
+.button-active{
+    background: #4060B4;
+    color:#fff;
+}
+
+.start-btn{
+    background: #4060B4;
+    color: #fff;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 2rem 8rem;
+    font-size: 50px;
+}
+.start-btn:hover{
+    color: rgb(200, 245, 255);
+}
+
+.active{
+    background: #4060b4db;
+    color: #fff;
+    border: 3px solid #4060B4;
+}

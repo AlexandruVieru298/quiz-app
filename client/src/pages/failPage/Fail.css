@@ -1,0 +1,20 @@
+.header-text{
+    color:#4060B4;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.fail-text{
+    color:#C82929;
+    font-weight: bold;
+    font-style: italic;
+    font-family:sans-serif;
+}
+
+.fail-icon{
+    font-size: 100px;
+    color: #C82929;
+    text-align: center;
+    display: block;
+}
+

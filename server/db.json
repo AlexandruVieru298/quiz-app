@@ -1,0 +1,224 @@
+{
+  "questions":[
+    { 
+      "q": "Este corectă depăşirea efectuată de motociclistul din imagine?",
+      "correctAnswer": ["a", "b"],
+      "answers": {
+        "A": "nu, deoarece se află la mai puţin de 50 m de colţul intersecţiei;",
+        "B": "da, procedează regulamentar;",
+        "C": "nu, deoarece din sens invers circulă un alt autovehicul;"
+      },
+      "images": "Quiz1.png",
+      "category":"A"
+    },
+    {
+      "q": "Motociclistul intră în intersecţie?",
+      "correctAnswer": ["C"],
+      "answers": {
+        "A": "ultimul",
+        "B": "primul",
+        "C": "al doilea"
+      },
+      "images": "Quiz2.png",
+      "category":"A"
+    },
+    {
+      "q": "Care conducător trebuie să acorde prioritate pietonilor?",
+      "correctAnswer": ["B"],
+      "answers": {
+        "A": "ambii conducători",
+        "B": "motociclistul",
+        "C": "conducătorul autoturismului"
+      },
+      "images": "Quiz3.png",
+      "category":"A"
+    },
+    {
+      "q": "Ce semnificaţie au panourile alăturate?",
+      "correctAnswer": ["A"],
+      "answers": {
+        "A": "panouri suplimentare la nodurile rutiere de pe autostrăzi;",
+        "B": "panouri suplimentare pentru intersecţia cu calea ferată;",
+        "C": "panouri succesive la apropierea de drumurile europene;"
+      },
+      "images": "Quiz4.png",
+      "category":"A"
+    },
+    {
+      "q": "Care este ordinea de trecere a vehiculelor prin intersecţie?",
+      "correctAnswer": ["C"],
+      "answers": {
+        "A": "autoturismul, bicicleta, motocicleta",
+        "B": "bicicleta, autoturismul, motocicleta",
+        "C": "bicicleta, motocicleta, autoturismul"
+      },
+      "images": "Quiz5.png",
+      "category":"A"
+    },
+    {
+      "q": "Care dintre indicatoarele din imagine semnalizează o staţie de tramvai?", 
+      "correctAnswer": ["A"],
+      "answers": {
+        "A": "indicatorul 1",
+        "B": "indicatorul 2",
+        "C": "niciunul"
+      },
+      "images": "Quiz6.png",
+      "category":"A"
+    },
+    {
+      "q": "Care dintre indicatoare anunţă sfârşitul drumului cu prioritate?",
+      "correctAnswer": ["C"],
+      "answers": {
+        "A": "niciunul",
+        "B": "ambele",
+        "C": "indicatorul 1"
+      },
+      "images": "Quiz7.png",
+      "category":"A"
+    },
+    {
+      "q": "Cum procedaţi la întâlnirea panoului şi a indicatorului?",
+      "correctAnswer": ["A"],
+      "answers": {
+        "A": "opriţi, vă asiguraţi şi acordaţi prioritate tuturor vehiculelor",
+        "B": "acordaţi prioritate vehiculelor care circulă din stânga",
+        "C": "acordaţi prioritate numai vehiculelor de transport public de persoane"
+      },
+      "images": "Quiz8.png",
+      "category":"A"
+    },
+    {
+      "q": "Indicatorul următor vă arată că?",
+      "correctAnswer": ["A"],
+      "answers": {
+        "A": "aveţi prioritate de trecere faţă de vehiculele care circulă din sens opus",
+        "B": "începe un drum cu sens unic",
+        "C": "trebuie să acordaţi prioritate vehiculelor care circulă din sens opus"
+      },
+      "images": "Quiz9.png",
+      "category":"A"
+    },
+    {
+      "q": "Ce semnificaţie are un astfel de marcaj rutier?", 
+      "correctAnswer": ["B"],
+      "answers": {
+        "A": "deviere temporară a circulaţiei",
+        "B": "marcaj pe o bandă de accelerare",
+        "C": "marcaj pentru spaţii interzise"
+      },
+      "images": "Quiz10.png",
+      "category":"A"
+    },
+    {
+      "q": "Este corectă depăşirea autocamionului din imagine?", 
+      "correctAnswer": ["C"],
+      "answers": {
+        "A": "da, deoarece din sens opus nu se apropie alt vehicul",
+        "B": "nu, pentru că depăşirea s-ar face într-o curbă cu vizibilitate redusă sub 50 m",
+        "C": "nu, pentru că linia continuă interzice acest lucru"
+      },
+      "images": "QuizB1.png",
+      "category":"B"
+    },
+    {
+      "q": "Semnificaţia indicatorului şi a panoului adiţional este?", 
+      "correctAnswer": ["C"],
+      "answers": {
+        "A": "oprirea şi staţionarea sunt interzise",
+        "B": "zonă de oprire permisă pentru cel mult 30 de minute",
+        "C": "zonă de staţionare permisă pentru cel mult 30 de minute"
+      },
+      "images": "QuizB2.png",
+      "category":"B"
+    },
+    {
+      "q": "În prima intersecţie veţi acorda prioritate?", 
+      "correctAnswer": ["A"],
+      "answers": {
+        "A": "de dreapta, dacă nu există alte reglementări în intersecţie",
+        "B": "de stânga",
+        "C": "tuturor autovehiculelor care circulă din stânga şi din dreapta;"
+      },
+      "images": "QuizB3.png",
+      "category":"B"
+    },
+    {
+      "q": "Care autoturisme s-au încadrat corect pentru a traversa intersecţia prezentată?", 
+      "correctAnswer": ["A"],
+      "answers": {
+        "A": "toate",
+        "B": "autoturismul verde şi cel roşu",
+        "C": "autoturismul albastru şi cel galben"
+      },
+      "images": "QuizB4.png",
+      "category":"B"
+    },
+    {
+      "q": "La întâlnirea acestui indicator, aveţi obligaţia:", 
+      "correctAnswer": ["A"],
+      "answers": {
+        "A": "să sporiţi atenţia, deoarece la o distanţă de 50 m urmează o intersecţie cu un drum prioritar",
+        "B": "nu aveţi nicio obligaţie, întrucât circulaţi pe un drum prioritar",
+        "C": "să acordaţi prioritate de dreapta la indicatorul următor"
+      },
+      "images": "QuizB5.png",
+      "category":"B"
+    },
+    {
+      "q": "Ce obligaţii aveţi dacă luminile roşii se aprind şi se sting alternativ?", 
+      "correctAnswer": ["C"],
+      "answers": {
+        "A": "reduceţi viteza şi, după ce vă asiguraţi, vă continuaţi deplasarea",
+        "B": "reduceţi viteza şi opriţi numai în cazul în care se apropie un tren",
+        "C": "opriţi fără a depăşi indicatorul"
+      },
+      "images": "QuizB6.png",
+      "category":"B"
+    },
+    {
+      "q": "În situaţia dată, vă este interzis:", 
+      "correctAnswer": ["B"],
+      "answers": {
+        "A": "să continuaţi deplasarea",
+        "B": "să opriţi",
+        "C": "să ocoliţi un obstacol prin stânga"
+      },
+      "images": "QuizB7.png",
+      "category":"B"
+    },
+    {
+      "q": "Ce semnificaţie are marcajul rutier din imagine?", 
+      "correctAnswer": ["C"],
+      "answers": {
+        "A": "bandă de circulaţie destinată opririi voluntare",
+        "B": "spaţiu pentru oprirea în caz de urgenţă",
+        "C": "marcaj transversal de oprire"
+      },
+      "images": "QuizB8.png",
+      "category":"B"
+    },
+    {
+      "q": "Care dintre cele trei vehicule va trece al doilea prin intersecţie?", 
+      "correctAnswer": ["A"],
+      "answers": {
+        "A": "autoturismul verde",
+        "B": "autoturismul roşu",
+        "C": "autocamionul"
+      },
+      "images": "QuizB9.png",
+      "category":"B"
+    },
+    {
+      "q": "Ce semnifică indicatorul?", 
+      "correctAnswer": ["C"],
+      "answers": {
+        "A": "presemnalizează traseul de urmat în vederea efectuării virajului la dreapta",
+        "B": "semnalizează o succesiune de curbe, dintre care prima la dreapta",
+        "C": "o curbă deosebit de periculoasă, spre dreapta"
+      },
+      "images": "QuizB10.png",
+      "category":"B"
+    }
+  ]
+}
